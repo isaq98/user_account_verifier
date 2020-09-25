@@ -6,10 +6,10 @@ All that's necessary to run this project is quite literally just to *pull the re
 
 ## About
 The project utilizes a regex and HTML5 standards to check:
--Empty email and/or password fields
--Matching email and password fields
--Invalidly formatted email and password fields
--Mismatched password verification
+* Empty email and/or password fields
+* Matching email and password fields
+* Invalidly formatted email and password fields
+* Mismatched password verification
 
 As mentioned, I wanted to make this project to brush up on my knowledge of regexes because I hadn't used them in a while.
 Plus, I like web design a lot, so I figure an account creation page is something I should be able to create.
