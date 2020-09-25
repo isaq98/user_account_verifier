@@ -1,10 +1,10 @@
-#Account Creation Validator
+# Account Creation Validator
 A JavaScript day-project for brushing up on regexes and handling the oh-so common feature of user account creation.
 
-##Usage
+## Usage
 All that's necessary to run this project is quite literally just to *pull the repo.*
 
-##About
+## About
 The project utilizes a regex and HTML5 standards to check:
 -Empty email and/or password fields
 -Matching email and password fields
