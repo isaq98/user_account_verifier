@@ -13,3 +13,7 @@ The project utilizes a regex and HTML5 standards to check:
 
 As mentioned, I wanted to make this project to brush up on my knowledge of regexes because I hadn't used them in a while.
 Plus, I like web design a lot, so I figure an account creation page is something I should be able to create.
+
+## Preview
+Here's what the page looks like:
+![](images/screenshot.png)
